@@ -1,0 +1,19 @@
+login1 / pass1 (Менеджер)
+
+login2 / pass2 (Автомеханик)
+
+login3 / pass3 (Автомеханик)
+
+login4 / pass4 (Оператор)
+
+login5 / pass5 (Оператор)
+
+login11 / pass11 (Заказчик)
+
+login12 / pass12 (Заказчик)
+
+login13 / pass13 (Заказчик)
+
+login14 / pass14 (Заказчик)
+
+login15 / pass15 (Автомеханик)
